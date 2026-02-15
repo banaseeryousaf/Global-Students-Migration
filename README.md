@@ -54,6 +54,3 @@ STEPS FOLLOWED
 FILES INCLUDED
 - global_student_migration.csv
 - project.ipynb
-E-Commerce Customer churn db.sql – Table creation and sample data insertion.
-ecomm.sql – Cleaned and transformed dataset.
-README.md – Project description.
